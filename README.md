@@ -1,1 +1,1 @@
-# computer-graphics-final
+# openGL-project
