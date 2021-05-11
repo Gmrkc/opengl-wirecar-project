@@ -1,1 +1,1 @@
-# openGL-project
+# opengl-project
